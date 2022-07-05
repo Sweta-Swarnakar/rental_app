@@ -1,0 +1,1 @@
+/Users/sswarnakar/Desktop/ember/rental-app/tmp/simple_concat_concat-output_path-G6y4pg9O.tmp/mirage.lint-test.js

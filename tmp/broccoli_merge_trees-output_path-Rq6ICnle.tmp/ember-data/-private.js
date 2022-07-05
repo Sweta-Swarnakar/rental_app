@@ -1,0 +1,1 @@
+/Users/sswarnakar/Desktop/ember/rental-app/tmp/rollup-output_path-5NsbUOSC.tmp/ember-data/-private.js

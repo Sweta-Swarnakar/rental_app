@@ -1,0 +1,1 @@
+/Users/sswarnakar/Desktop/ember/rental-app/tmp/broccoli_persistent_filterbabel__babel_ember_welcome_page-output_path-cOMM5hFh.tmp/ember-welcome-page/components/welcome-page.js

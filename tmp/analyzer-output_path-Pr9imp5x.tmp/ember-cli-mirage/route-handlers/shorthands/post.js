@@ -1,0 +1,1 @@
+/Users/sswarnakar/Desktop/ember/rental-app/node_modules/ember-cli-mirage/addon/route-handlers/shorthands/post.js

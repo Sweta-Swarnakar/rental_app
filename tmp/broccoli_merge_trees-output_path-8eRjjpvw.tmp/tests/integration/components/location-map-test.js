@@ -1,0 +1,1 @@
+/Users/sswarnakar/Desktop/ember/rental-app/tests/integration/components/location-map-test.js

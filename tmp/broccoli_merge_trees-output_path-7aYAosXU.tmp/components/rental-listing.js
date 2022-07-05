@@ -1,0 +1,1 @@
+/Users/sswarnakar/Desktop/ember/rental-app/app/components/rental-listing.js

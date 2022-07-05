@@ -1,0 +1,1 @@
+/Users/sswarnakar/Desktop/ember/rental-app/tmp/analyzer-input_base_path-JKSEk6wx.tmp/ember-cli-mirage/test-support/index.js

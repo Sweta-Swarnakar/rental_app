@@ -1,0 +1,1 @@
+/Users/sswarnakar/Desktop/ember/rental-app/tmp/funnel-input_base_path-TNw2OI9K.tmp/tests/unit/routes/index-test.js

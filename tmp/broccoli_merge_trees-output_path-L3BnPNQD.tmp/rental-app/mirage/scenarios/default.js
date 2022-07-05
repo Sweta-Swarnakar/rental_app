@@ -1,0 +1,1 @@
+/Users/sswarnakar/Desktop/ember/rental-app/mirage/scenarios/default.js

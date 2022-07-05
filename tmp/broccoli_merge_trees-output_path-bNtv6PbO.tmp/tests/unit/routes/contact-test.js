@@ -1,0 +1,1 @@
+/Users/sswarnakar/Desktop/ember/rental-app/tests/unit/routes/contact-test.js
